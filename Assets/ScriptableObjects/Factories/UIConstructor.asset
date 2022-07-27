@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 084a7bc086bf24341995dc5100c37a2d, type: 3}
+  m_Name: UIConstructor
+  m_EditorClassIdentifier: 
+  RowHeight: 50
+  TopOffset: 30
+  TextInputPanelPrefab: {fileID: 6057081626382616794, guid: ad8203aadf376a84d85d0f706f9f724d, type: 3}
+  IntInputPanelPrefab: {fileID: 8196453869817630691, guid: ce9d24ac5bac47541a39462f3d7d885a, type: 3}
+  Vector2InputPanelPrefab: {fileID: 4213792906414327625, guid: 2905d712a7ca6e345bc828993a1121d8, type: 3}
+  ColorPickerPanel: {fileID: 6141123713527067964, guid: 157b799565b37aa4b8fb64748154ffd3, type: 3}
